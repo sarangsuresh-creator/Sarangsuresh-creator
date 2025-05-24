@@ -1,7 +1,4 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://readme-hero.vercel.app/api?name=Sarang%20Suresh&description=Passionate%20about%20C%2C%20C%2B%2B%2C%20Python%20and%20Embedded%20Systems&color=gradient&font=Source%20Code%20Pro&center=true&rotate=false&animation=fadeIn" alt="hero-banner" />
-</p>
+
 
 <h1 align="center">Hi, I'm Sarang Suresh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
