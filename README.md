@@ -2,8 +2,6 @@
 
 ![Banner](https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Github.gif)
 
-
-
 <h1 align="center">█▓▒▒░░░░░░𝐻𝒶𝒾 𝐼'𝓂 𝒮𝒶𝓇𝒶𝓃𝑔 𝒮𝓊𝓇𝑒𝓈𝒽░░░░░▒▒▓█<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
@@ -14,6 +12,9 @@
 
 ---
 
+   ![Banner](https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif)
+
+---
 ### Languages I Use
 
 <p align="center">
