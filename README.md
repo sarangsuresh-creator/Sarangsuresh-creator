@@ -12,7 +12,10 @@
 
 ---
 
-   ![Banner](https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif)
+   <p align="center">
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif" alt="Banner" />
+</p>
+
 
 ---
 ### Languages I Use
