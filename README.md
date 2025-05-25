@@ -1,5 +1,8 @@
 
 
+<img src="https://github.com/sarangsureah-creator/sarangsuresh-creator/blob/main/banner.gif?raw=true" alt="github Account(1)" width="100%" />
+
+
 <h1 align="center">Hi, I'm Sarang Suresh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
