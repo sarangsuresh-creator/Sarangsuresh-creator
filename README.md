@@ -4,7 +4,7 @@
 
 
 
-<h1 align="center">Hi, I'm Sarang Suresh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">█▓▒▒░░░░░░░░░𝐻𝒶𝒾 𝐼'𝓂 𝒮𝒶𝓇𝒶𝓃𝑔 𝒮𝓊𝓇𝑒𝓈𝒽░░░░░░░░░▒▒▓█<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <a href="https://github.com/sarangsuresh">
@@ -24,14 +24,7 @@
 
 ---
 
-### Currently Learning
 
-- STM32 Microcontrollers & Register-level Programming
-- FreeRTOS Kernel Internals
-- CAN Protocol on Embedded Platforms
-- Real-Time Systems Design
-
----
 
 
 ### GitHub Stats
@@ -56,7 +49,12 @@
   <a href="https://www.linkedin.com/in/sarangsuresh-creator?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/8075879037" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="40" alt="WhatsApp" />
+  </a>
 </p>
+
 
 ---
 
