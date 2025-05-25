@@ -13,17 +13,16 @@
 ---
 
    <p align="center">
-  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif" width="300" alt="Banner" /> 
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif" width="400" alt="Banner" /> <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project5.gif" width="200" alt="Banner" /> 
 </p>
 
 
----
-### Languages I Use
+
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
 </p>
 
 ---
