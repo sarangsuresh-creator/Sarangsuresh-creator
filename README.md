@@ -13,7 +13,7 @@
 ---
 
    <p align="center">
-  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif" width="300" alt="Banner" /> 
 </p>
 
 
