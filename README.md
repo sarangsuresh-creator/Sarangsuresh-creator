@@ -4,7 +4,7 @@
 
 
 
-<h1 align="left">█▓▒▒░░░░░░░░░𝐻𝒶𝒾 𝐼'𝓂 𝒮𝒶𝓇𝒶𝓃𝑔 𝒮𝓊𝓇𝑒𝓈𝒽░░░░░░░░░▒▒▓█<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">█▓▒▒░░░░░░𝐻𝒶𝒾 𝐼'𝓂 𝒮𝒶𝓇𝒶𝓃𝑔 𝒮𝓊𝓇𝑒𝓈𝒽░░░░░▒▒▓█<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <a href="https://github.com/sarangsuresh">
