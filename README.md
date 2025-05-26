@@ -12,12 +12,12 @@
 </p>
 
 ---
-<!--
+
    <p align="center">
   <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project3.gif" width="400" alt="Banner" /> <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/Project5.gif" width="200" alt="Banner" /> 
 </p>
 
--->
+
 
 
 <p align="center">
