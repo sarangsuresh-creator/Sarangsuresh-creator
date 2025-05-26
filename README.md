@@ -44,6 +44,10 @@
 ---
 
 ### Connect with Me
+<a href="https://www.instagram.com/sureshsarang44" target="_blank">
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/logo.png" width="50" alt="Instagram" />
+</a>
+
 
 <p align="center">
   <a href="https://www.instagram.com/sureshsarang44?igsh=bTd3ZWh5a2ZrcHc4" target="_blank">
@@ -55,7 +59,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/8075879037" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/whatsapp.png" width="40" alt="WhatsApp" />
+     <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/whatsapp.png" width="50" alt="Instagram" />
   </a>
 </p>
 
