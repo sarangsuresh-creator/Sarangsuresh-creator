@@ -49,15 +49,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarangsuresh-creator/" target="_blank">
-  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/linkdin2.jpg" width="50" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/linkdin2.jpg" width="50" alt="linkdin" />
   </a>
   &nbsp;&nbsp;
 <a href="https://www.instagram.com/sureshsarang44" target="_blank">
-  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/instagram2.png" width="67" alt="Instagram" />
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/instagram2.png" width="69" alt="Instagram" />
 </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/8075879037" target="_blank">
-     <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/whatsapp2.jpg" width="50" alt="Instagram" />
+     <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/whatsapp2.jpg" width="70" alt="whatsapp" />
   </a>
 </p>
 
