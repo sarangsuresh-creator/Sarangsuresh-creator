@@ -57,7 +57,7 @@
 </a>
   &nbsp;&nbsp;
   <a href="https://wa.me/8075879037" target="_blank">
-     <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/whatsapp3.jpg" width="52" alt="whatsapp" />
+     <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/whatsapp3.jpg" width="50" alt="whatsapp" />
   </a>
 </p>
 
