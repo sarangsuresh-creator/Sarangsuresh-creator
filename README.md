@@ -44,22 +44,20 @@
 ---
 
 ### Connect with Me
-<a href="https://www.instagram.com/sureshsarang44" target="_blank">
-  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/logo.png" width="50" alt="Instagram" />
-</a>
+
 
 
 <p align="center">
-  <a href="https://www.instagram.com/sureshsarang44?igsh=bTd3ZWh5a2ZrcHc4" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/instagram-new.png" width="40" alt="Instagram" />
+  <a href="https://www.linkedin.com/in/sarangsuresh-creator/" target="_blank">
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/linkdin2.jpg" width="50" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sarangsuresh-creator?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40" alt="LinkedIn" />
-  </a>
+<a href="https://www.instagram.com/sureshsarang44" target="_blank">
+  <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/instagram2.png" width="67" alt="Instagram" />
+</a>
   &nbsp;&nbsp;
   <a href="https://wa.me/8075879037" target="_blank">
-     <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/whatsapp.png" width="50" alt="Instagram" />
+     <img src="https://raw.githubusercontent.com/sarangsuresh-creator/sarangsuresh-creator/main/whatsapp2.jpg" width="50" alt="Instagram" />
   </a>
 </p>
 
